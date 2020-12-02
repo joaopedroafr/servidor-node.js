@@ -1,0 +1,24 @@
+{
+  "name": "server-2",
+  "version": "1.0.0",
+  "description": "Criando um servidor Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopedroafr/servidor-node.js.git"
+  },
+  "keywords": [
+    "node.js",
+    "webserver"
+  ],
+  "author": "João Pedro A F Resende",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaopedroafr/servidor-node.js/issues"
+  },
+  "homepage": "https://github.com/joaopedroafr/servidor-node.js#readme"
+}
